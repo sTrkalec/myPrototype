@@ -2,15 +2,15 @@
 /* Inputs */
 /* Timeline custom component */
 :root{
-  --pseudo-backgroundcolor: #4a89dc;
-  --icons-background: #656d78;
-  --workExperience-background-color: #FFFFFF  ;
-  --workExperience-color: #434a54 ;
-  --subtitulo: #656d78;
-  --body-themer: #f5f7fa;;
+  --pseudo-backgroundcolor: #f100ff;
+  --icons-background: rgb(204, 204, 204);
+  --workExperience-background-color: rgba(150, 87, 229, 0.52)  ;
+  --workExperience-color: rgb(240, 240, 240) ;
+  --subtitulo: rgb(161, 161, 161);
+  --body-themer: rgb(18, 18, 20);;
   --body-themer-container: #f5f7fa ;
-  --cover-bg: #4a89dc;
-  --body-color: #434a54; 
+  --cover-bg: #8257e585;
+  --body-color: rgb(218, 218, 218); 
 }
 .timeline {
   border-left: 2px solid #e6e9ed;
