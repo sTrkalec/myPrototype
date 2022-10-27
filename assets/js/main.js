@@ -9,7 +9,6 @@ let isDark = false
 // Add your javascript here
 function cliclou() {
   isDark == false ? isDark = true : isDark = false
-  console.log(isDark)
   
   if(isDark == true){
     const root = document.querySelector(":root"); //grabbing the root element
